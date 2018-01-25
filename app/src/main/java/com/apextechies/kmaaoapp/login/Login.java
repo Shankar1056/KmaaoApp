@@ -7,8 +7,8 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
-import com.apextechies.kmaaoapp.MainActivity;
 import com.apextechies.kmaaoapp.R;
+import com.apextechies.kmaaoapp.login.activity.MainActivity;
 import com.firebase.digitsmigrationhelpers.AuthMigrator;
 import com.firebase.ui.auth.AuthUI;
 import com.firebase.ui.auth.ErrorCodes;
